@@ -19,7 +19,7 @@ Code for a basic car that follows a particular object after detecting it on the 
 ### Installation
 Clone this repository to any desired location on your system:
 ```
-git clone https://github.com/theparselmouth/object-follower-car.git
+git clone https://github.com/rohithjayaraman/object-follower-car.git
 ```
 Navigate to the ros_deep_learning/src folder that will be in your catkin workspace once you clone the ROS implementation of jetson Utils. Copy all the files downloaded/cloned from this repo into this src folder.
 After the workspace has been created, open a terminal and execute the following statement:
